@@ -9,7 +9,9 @@
 
 # Составление блок схемы работы алгоритма.
 
-![Блок-схема!](FinalTestDiagramm.drawio.png)
+![Блок-схема!](FinalTestDiagramm.jpg) 
+
+См. приложенный файл FinalTestDiagramm
 
 # Описание процесса в README.md
 
